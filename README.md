@@ -11,7 +11,7 @@ Craft System DarkRP is a simple and elegant crafting system for weapons and item
 
 ## Interface Screenshot
 
-![Interface Craft System DarkRP](https://imgur.com/a/jwkfuSr)
+![Interface Craft System DarkRP](https://i.imgur.com/CqRL1oS.png)
 
 ## Getting Started
 
